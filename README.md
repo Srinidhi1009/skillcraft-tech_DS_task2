@@ -18,7 +18,12 @@ A simple data science project on the **Titanic dataset** performing:
 
 ### Survival Gender  
 ![image alt](https://github.com/Srinidhi1009/skillcraft-tech_Data-science_task2/blob/cbcd3b35aadf872477ce09dde3fb2084fdeed018/Screenshot%202025-09-16%20114651.png)  
-## 
+## Age Distribution
+![image alt](https://github.com/Srinidhi1009/skillcraft-tech_Data-science_task2/blob/c962060e4ce0b343b04a4e5bd480d2677992beb0/Screenshot%202025-09-16%20114720.png)
+
+##
+
+![image alt]
 
 ### Correlation Heatmap  
 ![image alt]()  
