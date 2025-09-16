@@ -1,8 +1,51 @@
-# Titanic Dataset – Data Cleaning & EDA  
+## 🚢 Titanic Dataset – Data Cleaning & Exploratory Data Analysis (EDA)
 
-A simple data science project on the **Titanic dataset** performing:  
-- **Data Cleaning** → handle missing values (Age, Embarked, drop Cabin)  
-- **Exploratory Data Analysis (EDA)** → visualize survival distribution, gender impact, age distribution, passenger class, and correlations  
+This project demonstrates a complete data science workflow using the famous Titanic dataset from Kaggle. The goal is to perform data cleaning and exploratory data analysis (EDA) to understand survival patterns, relationships between variables, and identify insights.
+
+## Objectives
+
+-Import and explore the Titanic dataset (titanic.csv)
+
+-Clean the dataset by handling missing values and irrelevant columns
+
+-Perform exploratory data analysis to identify survival trends
+
+-Visualize insights with clear plots and graphs
+
+## Data Cleaning
+
+Missing Values:
+
+Age → filled with median
+
+Embarked → filled with mode
+
+Cabin → dropped (too many missing values)
+
+Checked data types and summary statistics
+
+Removed unnecessary columns for EDA
+
+## Exploratory Data Analysis (EDA)
+
+## *The following visualizations are created:
+
+Survival Distribution → overall survival counts
+
+Survival by Gender → impact of gender on survival
+
+Age Distribution → histogram of passenger ages
+
+Survival by Passenger Class → how class affected survival
+
+Correlation Heatmap → numeric relationships between variables
+
+## Example Plots
+Survival by Gender
+
+Age Distribution
+
+Correlation Heatmap
 
 ## Tools  
 - Python  
