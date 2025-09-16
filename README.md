@@ -12,12 +12,13 @@ A simple data science project on the **Titanic dataset** performing:
 
 ## 📊 Visuals  
 
-### Survival by Gender  
+### Survival Count  
 
 ![image alt](https://github.com/Srinidhi1009/skillcraft-tech_Data-science_task2/blob/3d7caa53741866258dc1521e392c8c694834e467/Screenshot%202025-09-16%20114614.png)  
 
-### Age Distribution  
+### Survival Gender  
 ![image alt](https://github.com/Srinidhi1009/skillcraft-tech_Data-science_task2/blob/cbcd3b35aadf872477ce09dde3fb2084fdeed018/Screenshot%202025-09-16%20114651.png)  
+## 
 
 ### Correlation Heatmap  
 ![image alt]()  
