@@ -21,9 +21,9 @@ A simple data science project on the **Titanic dataset** performing:
 ## Age Distribution
 ![image alt](https://github.com/Srinidhi1009/skillcraft-tech_Data-science_task2/blob/c962060e4ce0b343b04a4e5bd480d2677992beb0/Screenshot%202025-09-16%20114720.png)
 
-##
+## Survival by Passenger class
 
-![image alt]
+![image alt](https://github.com/Srinidhi1009/skillcraft-tech_Data-science_task2/blob/8c82c4c388c87280b98f99ae021fba0486afffbf/Screenshot%202025-09-16%20114753.png)
 
 ### Correlation Heatmap  
 ![image alt]()  
